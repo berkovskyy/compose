@@ -15,7 +15,7 @@
 
 set -e
 
-VERSION="1.25.4"
+VERSION="latest"
 IMAGE="berkovskyy/armcompose:$VERSION"
 
 
